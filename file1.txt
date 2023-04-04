@@ -1,1 +1,3 @@
 Hello file1
+Git is better with GitHub
+Git is a must have skill
